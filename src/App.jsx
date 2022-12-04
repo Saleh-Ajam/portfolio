@@ -6,6 +6,7 @@ import Expereince from "./components/experience/Experience";
 import Services from "./components/services/Services";
 import Portfolio from "./components/portfolio/Portfolio";
 import Testimonials from "./components/testimonials/Testimonials";
+import Contact from "./components/contact/Contact";
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
       <Services />
       <Portfolio />
       <Testimonials />
+      <Contact />
     </>
   );
 }
