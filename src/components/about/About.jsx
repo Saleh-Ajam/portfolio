@@ -17,17 +17,17 @@ export default function About() {
         <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
-              <MdWorkOutline />
+              <MdWorkOutline className="about__icon" />
               <h5>Experience</h5>
               <small>Junior Developer</small>
             </article>
             <article className="about__card">
-              <RiBook2Line />
+              <RiBook2Line className="about__icon" />
               <h5>Education</h5>
               <small>B.Sc. Degree</small>
             </article>
             <article className="about__card">
-              <BsCodeSlash />
+              <BsCodeSlash className="about__icon" />
               <h5>Projects</h5>
               <small>4</small>
             </article>
