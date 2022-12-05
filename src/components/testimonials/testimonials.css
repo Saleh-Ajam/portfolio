@@ -41,6 +41,7 @@
 }
 .swiper-wrapper {
   transition-duration: 3000ms;
+  align-items: center;
 }
 /* -------- Media Queries (Medium) ---------*/
 @media screen and (max-width: 1024px) {
