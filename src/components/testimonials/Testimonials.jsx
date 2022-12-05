@@ -5,6 +5,7 @@ import AVTR2 from "../../assets/avatar2.jpg";
 import AVTR3 from "../../assets/avatar3.jpg";
 import AVTR4 from "../../assets/avatar4.jpg";
 import AVTR5 from "../../assets/avatar5.jpg";
+import AVTR6 from "../../assets/avatar6.jpg";
 
 import { Navigation, Pagination, Autoplay, EffectCards } from "swiper";
 
@@ -20,32 +21,36 @@ const data = [
   {
     avatar: AVTR1,
     name: "Muhammad Dayie",
-    review:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa esse, sequi enim facere illum, recusandae illo quo iusto commodi dolores, ex minus. Facere delectus officia sit quod sed, eaque numquam.",
+    review: "May God give you wellness eng. Saleh, neat job.",
   },
   {
     avatar: AVTR2,
     name: "Ahmad Barakeh",
     review:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa esse, sequi enim facere illum, recusandae illo quo iusto commodi dolores, ex minus. Facere delectus officia sit quod sed, eaque numquam.",
+      "Muhammad is a respectable person with people. The confident of himself and the one who gives everything his rights.    A smart person who knows what he's doing. Hopefully, your days will be all good and healthy.",
   },
   {
     avatar: AVTR3,
     name: "Muhammad Al-Elawie",
-    review:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa esse, sequi enim facere illum, recusandae illo quo iusto commodi dolores, ex minus. Facere delectus officia sit quod sed, eaque numquam.",
+    review: "Nice job and good partner ",
   },
   {
     avatar: AVTR4,
     name: "Hasan Hajar",
     review:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa esse, sequi enim facere illum, recusandae illo quo iusto commodi dolores, ex minus. Facere delectus officia sit quod sed, eaque numquam.",
+      "A developer and programmer who is great in dealing and achieving and fulfills requests in a timely manner. He never slackens in his work. It was a wonderful experience working with him.",
   },
   {
     avatar: AVTR5,
     name: "Abulhalim Kherallah",
     review:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa esse, sequi enim facere illum, recusandae illo quo iusto commodi dolores, ex minus. Facere delectus officia sit quod sed, eaque numquam.",
+      "Hello everyone. I would like to talk to you about my friend Saleh. He is a diligent and diligent person who always strives to achieve the best. He has a strong will and determination to do things that serve those around him. Finally, I tell him to continue your hard work, as there is always someone waiting. your success❤️",
+  },
+  {
+    avatar: AVTR6,
+    name: "Mahmoud Ali",
+    review:
+      "Muhammad is an ambitious and vigorous engineer. I wish you a bright future.",
   },
 ];
 export default function Testimonials() {
