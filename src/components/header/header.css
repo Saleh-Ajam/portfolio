@@ -86,3 +86,10 @@ header {
     display: none;
   }
 }
+
+@media screen and (max-width: 290px) {
+  header div.me {
+    width: 80%;
+    left: 10%;
+  }
+}
