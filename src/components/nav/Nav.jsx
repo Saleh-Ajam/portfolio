@@ -11,6 +11,7 @@ export default function Nav() {
   return (
     <nav>
       <a
+        id="nav__link__header"
         href="#"
         className={activeNav === "#" ? "active" : ""}
         onClick={() => setActiveNav("#")}
@@ -18,6 +19,7 @@ export default function Nav() {
         <AiOutlineHome />
       </a>
       <a
+        id="nav__link__about"
         href="#about"
         onClick={() => setActiveNav("#about")}
         className={activeNav === "#about" ? "active" : ""}
@@ -25,6 +27,7 @@ export default function Nav() {
         <AiOutlineUser />
       </a>
       <a
+        id="nav__link__experience"
         href="#experience"
         onClick={() => setActiveNav("#experience")}
         className={activeNav === "#experience" ? "active" : ""}
@@ -32,6 +35,7 @@ export default function Nav() {
         <BiBook />
       </a>
       <a
+        id="nav__link__portfolio"
         href="#portfolio"
         onClick={() => setActiveNav("#portfolio")}
         className={activeNav === "#portfolio" ? "active" : ""}
@@ -39,6 +43,7 @@ export default function Nav() {
         <IoApps />
       </a>
       <a
+        id="nav__link__contact"
         href="#contact"
         onClick={() => setActiveNav("#contact")}
         className={activeNav === "#contact" ? "active" : ""}

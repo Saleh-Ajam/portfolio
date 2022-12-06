@@ -114,6 +114,10 @@ img {
   object-fit: cover;
 }
 
+section#header {
+  margin-top: 0;
+  margin: 0;
+}
 /* -------- Media Queries (Medium) ---------*/
 @media screen and (max-width: 1024px) {
   .container {
