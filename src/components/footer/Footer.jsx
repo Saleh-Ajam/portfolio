@@ -2,15 +2,21 @@ import React from "react";
 import "./footer.css";
 import { BsTwitter, BsGithub } from "react-icons/bs";
 import { IoLogoLinkedin } from "react-icons/io";
+import logo from "../../assets/logo.png";
 
 import {} from "react-icons/bs";
 export default function Footer() {
   return (
     <section id="footer" className="container__sky__background">
       <footer>
-        <a href="#" className="footer__logo">
-          M. Saleh Ajam
-        </a>
+        <div className="footer__logo">
+          <a href="#">
+            <img src={logo} alt="logo" />
+          </a>
+          <a>
+            <small>M. Saleh Ajam</small>
+          </a>
+        </div>
         <ul className="permalinks">
           <li>
             <a href="#">Home</a>

@@ -29,6 +29,17 @@ footer {
   font-size: 1.3rem;
 }
 
+.footer__logo img {
+  width: 10%;
+  display: inline-block;
+  margin-right: 10px;
+}
+.footer__logo small {
+  vertical-align: top;
+}
+.footer__logo small:hover {
+  cursor: pointer;
+}
 /* -------- Media Queries (Small) ---------*/
 @media screen and (max-width: 600px) {
   .permalinks {
