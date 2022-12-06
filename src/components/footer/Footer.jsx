@@ -1,7 +1,7 @@
 import React from "react";
 import "./footer.css";
 import { BsTwitter, BsGithub } from "react-icons/bs";
-import { MdAlternateEmail } from "react-icons/md";
+import { IoLogoLinkedin } from "react-icons/io";
 
 import {} from "react-icons/bs";
 export default function Footer() {
@@ -43,7 +43,7 @@ export default function Footer() {
             <BsGithub />
           </a>
           <a href="https://www.linkedin.com/in/muhammad-saleh-ajam-1487b8145/">
-            <MdAlternateEmail />
+            <IoLogoLinkedin />
           </a>
         </div>
         <div className="footer__copyright">

@@ -2,7 +2,7 @@ import React from "react";
 import "./contact.css";
 import { MdAlternateEmail } from "react-icons/md";
 import { IoLogoLinkedin } from "react-icons/io";
-import { BsGithub } from "react-icons/bs";
+import { BsTwitter } from "react-icons/bs";
 
 export default function Contact() {
   return (
@@ -22,15 +22,20 @@ export default function Contact() {
             <IoLogoLinkedin className="contact__option__icon" />
             <h4>Linked-in</h4>
             <h5>Muhammad Saleh Ajam</h5>
-            <a href="https://www.linkedin.com/in/muhammad-saleh-ajam-1487b8145/">
+            <a
+              href="https://www.linkedin.com/in/muhammad-saleh-ajam-1487b8145/"
+              target="_blank"
+            >
               Send Message
             </a>
           </article>
           <article className="contact__option">
-            <BsGithub className="contact__option__icon" />
-            <h4>Github</h4>
-            <h5>Saleh-Ajam</h5>
-            <a href="https://github.com/Saleh-Ajam">Send E-mail</a>
+            <BsTwitter className="contact__option__icon" />
+            <h4>Twitter</h4>
+            <h5>@Saleh_ref</h5>
+            <a href="https://twitter.com/Saleh_ref" target="_blank">
+              Follow
+            </a>
           </article>
         </div>
       </div>
