@@ -6,7 +6,7 @@ import { IoLogoLinkedin } from "react-icons/io";
 import {} from "react-icons/bs";
 export default function Footer() {
   return (
-    <section id="footer">
+    <section id="footer" className="container__sky__background">
       <footer>
         <a href="#" className="footer__logo">
           M. Saleh Ajam
@@ -48,6 +48,11 @@ export default function Footer() {
         </div>
         <div className="footer__copyright">
           <small>&copy; Muhammad Saleh Ajam. All rights reversed.</small>
+        </div>
+        <div>
+          <div id="stars"></div>
+          <div id="stars2"></div>
+          <div id="stars3"></div>
         </div>
       </footer>
     </section>
