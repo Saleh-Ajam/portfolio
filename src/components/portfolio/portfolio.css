@@ -49,3 +49,11 @@
     text-align: center;
   }
 }
+
+/* -------- Media Queries (Extra Small) ---------*/
+@media screen and (max-width: 290px) {
+  .portfolio__item__cta {
+    justify-items: center;
+    grid-template-columns: 1fr;
+  }
+}
