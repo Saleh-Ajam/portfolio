@@ -87,6 +87,8 @@ header {
   }
 }
 
+/* -------- Media Queries (Extra Small) ---------*/
+
 @media screen and (max-width: 290px) {
   header div.me {
     width: 80%;

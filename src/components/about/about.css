@@ -105,3 +105,14 @@
     margin: 1.5rem 0;
   }
 }
+
+/* -------- Media Queries (Extra Small) ---------*/
+
+@media screen and (max-width: 600px) {
+  .about__me {
+    width: 60%;
+  }
+  .about__cards {
+    grid-template-columns: 1fr;
+  }
+}
