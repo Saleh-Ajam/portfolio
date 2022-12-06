@@ -35,7 +35,7 @@ export default function Footer() {
           </li>
         </ul>
 
-        <div className="footer__social">
+        <div className="footer__socials">
           <a href="https://twitter.com/saleh_ref">
             <BsTwitter />
           </a>
