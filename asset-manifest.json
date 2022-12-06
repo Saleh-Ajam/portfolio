@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fb79dd6f.css",
-    "main.js": "/portfolio/static/js/main.b96969ce.js",
+    "main.css": "/portfolio/static/css/main.267edebf.css",
+    "main.js": "/portfolio/static/js/main.719c386a.js",
     "static/media/Graduation Project.png": "/portfolio/static/media/Graduation Project.0e012ea83603e23ef1d9.png",
     "static/media/Fourth Year Project.png": "/portfolio/static/media/Fourth Year Project.e58e6ce23eaa782eb0f9.png",
     "static/media/Natoural Tours.png": "/portfolio/static/media/Natoural Tours.2f7fae4983b25a188a8f.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.47a2308f6e8f3ec214bc.png",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.ae1e8c005b46a0ef37bb.pdf",
     "static/media/avatar5.jpg": "/portfolio/static/media/avatar5.1384f88b05ed2fe512b1.jpg",
     "static/media/Saleh.jpg": "/portfolio/static/media/Saleh.f5a206bd8248cd29da71.jpg",
@@ -14,11 +15,11 @@
     "static/media/avatar6.jpg": "/portfolio/static/media/avatar6.2dc040fbdcf2d69312de.jpg",
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.4953398b2c706600464a.jpg",
     "index.html": "/portfolio/index.html",
-    "main.fb79dd6f.css.map": "/portfolio/static/css/main.fb79dd6f.css.map",
-    "main.b96969ce.js.map": "/portfolio/static/js/main.b96969ce.js.map"
+    "main.267edebf.css.map": "/portfolio/static/css/main.267edebf.css.map",
+    "main.719c386a.js.map": "/portfolio/static/js/main.719c386a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb79dd6f.css",
-    "static/js/main.b96969ce.js"
+    "static/css/main.267edebf.css",
+    "static/js/main.719c386a.js"
   ]
 }
