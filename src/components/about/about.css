@@ -108,7 +108,7 @@
 
 /* -------- Media Queries (Extra Small) ---------*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 290px) {
   .about__me {
     width: 60%;
   }
