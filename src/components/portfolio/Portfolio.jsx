@@ -4,6 +4,8 @@ import IMG1 from "../../assets/Fourth Year Project.png";
 import IMG2 from "../../assets/Graduation Project.png";
 import IMG3 from "../../assets/Natoural Tours.png";
 import IMG4 from "../../assets/Weather-Web-Page.png";
+import IMG5 from "../../assets/Notebook.png";
+import NOTEBOOKAPP from "../../assets/Notebook.apk";
 
 export default function Portfolio() {
   return (
@@ -79,7 +81,7 @@ export default function Portfolio() {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item__img">
-            <img src={IMG4} alt="Fourth year project" />
+            <img src={IMG4} alt="Natiural Tours" />
           </div>
           <h3>Weather Page</h3>
           <div className="portfolio__item__cta">
@@ -96,6 +98,17 @@ export default function Portfolio() {
               target="_blank"
             >
               Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item__img">
+            <img src={IMG5} alt="Notebook App." />
+          </div>
+          <h3>Notebook Android App.</h3>
+          <div className="portfolio__item__cta">
+            <a href={NOTEBOOKAPP} className="btn btn-primary" download>
+              download App.
             </a>
           </div>
         </article>
