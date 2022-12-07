@@ -6,6 +6,7 @@ import IMG3 from "../../assets/Natoural Tours.png";
 import IMG4 from "../../assets/Weather-Web-Page.png";
 import IMG5 from "../../assets/Notebook.png";
 import IMG6 from "../../assets/DoryGame.png";
+import IMG7 from "../../assets/LuckyShurb.png";
 import NOTEBOOKAPP from "../../assets/Notebook.apk";
 import DORYGAMEAPP from "../../assets/DoryGame.apk";
 
@@ -122,6 +123,23 @@ export default function Portfolio() {
           <div className="portfolio__item__cta">
             <a href={DORYGAMEAPP} className="btn btn-primary" download>
               download App.
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item__img">
+            <img src={IMG7} alt="Lucky Shurb" />
+          </div>
+          <h3>Lucky Shurb</h3>
+          <div className="portfolio__item__cta">
+            <a href="https://github.com/Saleh-Ajam/Lucky-Shurb" className="btn">
+              Source Code
+            </a>
+            <a
+              href="https://saleh-ajam.github.io/Lucky-Shurb/"
+              className="btn btn-primary"
+            >
+              Demo
             </a>
           </div>
         </article>
