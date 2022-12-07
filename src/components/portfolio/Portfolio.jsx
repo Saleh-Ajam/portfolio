@@ -30,7 +30,7 @@ export default function Portfolio() {
               className="btn btn-primary"
               target="_blank"
             >
-              Demo
+              View
             </a>
           </div>
         </article>
@@ -48,7 +48,7 @@ export default function Portfolio() {
               className="btn btn-primary"
               target="_blank"
             >
-              Demo
+              View
             </a>
           </div>
         </article>
