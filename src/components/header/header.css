@@ -56,6 +56,7 @@ header {
   border-radius: 50%;
   width: 80%;
   margin: 10%;
+  border: 2px solid var(--color-bg-variant);
 }
 
 /* ------ Scroll Down ------ */
