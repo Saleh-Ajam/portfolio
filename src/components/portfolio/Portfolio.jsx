@@ -1,9 +1,9 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/Fourth Year Project.png";
-import IMG2 from "../../assets/Graduation Project.png";
-import IMG3 from "../../assets/Natoural Tours.png";
-import IMG4 from "../../assets/Weather-Web-Page.png";
+import IMG1 from "../../assets/FourthYearProject.png";
+import IMG2 from "../../assets/GraduationProject.png";
+import IMG3 from "../../assets/NatouralTours.png";
+import IMG4 from "../../assets/WeatherWebPage.png";
 import IMG5 from "../../assets/Notebook.png";
 import IMG6 from "../../assets/DoryGame.png";
 import IMG7 from "../../assets/LuckyShurb.png";
