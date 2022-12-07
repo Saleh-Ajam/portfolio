@@ -5,7 +5,9 @@ import IMG2 from "../../assets/Graduation Project.png";
 import IMG3 from "../../assets/Natoural Tours.png";
 import IMG4 from "../../assets/Weather-Web-Page.png";
 import IMG5 from "../../assets/Notebook.png";
+import IMG6 from "../../assets/DoryGame.png";
 import NOTEBOOKAPP from "../../assets/Notebook.apk";
+import DORYGAMEAPP from "../../assets/DoryGame.apk";
 
 export default function Portfolio() {
   return (
@@ -108,6 +110,17 @@ export default function Portfolio() {
           <h3>Notebook Android App.</h3>
           <div className="portfolio__item__cta">
             <a href={NOTEBOOKAPP} className="btn btn-primary" download>
+              download App.
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item__img">
+            <img src={IMG6} alt="Dory Game App." />
+          </div>
+          <h3>Dory Game Android App.</h3>
+          <div className="portfolio__item__cta">
+            <a href={DORYGAMEAPP} className="btn btn-primary" download>
               download App.
             </a>
           </div>
