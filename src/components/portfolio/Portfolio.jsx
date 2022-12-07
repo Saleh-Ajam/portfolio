@@ -3,6 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/Fourth Year Project.png";
 import IMG2 from "../../assets/Graduation Project.png";
 import IMG3 from "../../assets/Natoural Tours.png";
+import IMG4 from "../../assets/Weather-Web-Page.png";
 
 export default function Portfolio() {
   return (
@@ -69,6 +70,28 @@ export default function Portfolio() {
             </a>
             <a
               href="https://natural-tours.onrender.com/"
+              className="btn-primary btn"
+              target="_blank"
+            >
+              Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item__img">
+            <img src={IMG4} alt="Fourth year project" />
+          </div>
+          <h3>Weather Page</h3>
+          <div className="portfolio__item__cta">
+            <a
+              href="https://github.com/Saleh-Ajam/weather-web-page"
+              className="btn"
+              target="_blank"
+            >
+              Source Code
+            </a>
+            <a
+              href="https://saleh-ajam.github.io/weather-web-page/"
               className="btn-primary btn"
               target="_blank"
             >
