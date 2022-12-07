@@ -119,7 +119,7 @@ export default function Portfolio() {
           <div className="portfolio__item__img">
             <img src={IMG6} alt="Dory Game App." />
           </div>
-          <h3>Dory Game Android App.</h3>
+          <h3>Dory Android Game</h3>
           <div className="portfolio__item__cta">
             <a href={DORYGAMEAPP} className="btn btn-primary" download>
               download App.
