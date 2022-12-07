@@ -1,11 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.267edebf.css",
-    "main.js": "/portfolio/static/js/main.648b80f6.js",
+    "main.js": "/portfolio/static/js/main.97780907.js",
+    "static/media/DoryGame.apk": "/portfolio/static/media/DoryGame.128f62247ffa177a0d68.apk",
     "static/media/Graduation Project.png": "/portfolio/static/media/Graduation Project.0e012ea83603e23ef1d9.png",
     "static/media/Weather-Web-Page.png": "/portfolio/static/media/Weather-Web-Page.f889fa852637c3186d44.png",
+    "static/media/Notebook.apk": "/portfolio/static/media/Notebook.86e755b23b19b174eabc.apk",
+    "static/media/DoryGame.png": "/portfolio/static/media/DoryGame.a9edbf9bfa0f19959a7b.png",
     "static/media/Fourth Year Project.png": "/portfolio/static/media/Fourth Year Project.e58e6ce23eaa782eb0f9.png",
     "static/media/Natoural Tours.png": "/portfolio/static/media/Natoural Tours.2f7fae4983b25a188a8f.png",
+    "static/media/Notebook.png": "/portfolio/static/media/Notebook.7668c70f4cd492498611.png",
     "static/media/logo.png": "/portfolio/static/media/logo.47a2308f6e8f3ec214bc.png",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.ae1e8c005b46a0ef37bb.pdf",
     "static/media/avatar5.jpg": "/portfolio/static/media/avatar5.1384f88b05ed2fe512b1.jpg",
@@ -17,10 +21,10 @@
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.4953398b2c706600464a.jpg",
     "index.html": "/portfolio/index.html",
     "main.267edebf.css.map": "/portfolio/static/css/main.267edebf.css.map",
-    "main.648b80f6.js.map": "/portfolio/static/js/main.648b80f6.js.map"
+    "main.97780907.js.map": "/portfolio/static/js/main.97780907.js.map"
   },
   "entrypoints": [
     "static/css/main.267edebf.css",
-    "static/js/main.648b80f6.js"
+    "static/js/main.97780907.js"
   ]
 }
