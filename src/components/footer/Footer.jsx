@@ -53,7 +53,7 @@ export default function Footer() {
           </a>
         </div>
         <div className="footer__copyright">
-          <small>&copy; Muhammad Saleh Ajam. All rights reversed.</small>
+          <small>&copy; Muhammad Saleh Ajam. All rights are reserved.</small>
         </div>
         <div>
           <div id="stars"></div>
