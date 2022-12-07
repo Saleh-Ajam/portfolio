@@ -8,10 +8,13 @@ import Portfolio from "./components/portfolio/Portfolio";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
+import Favicon from "react-favicon";
+import favIcon from "./assets/logo.png";
 
 export default function App() {
   return (
     <>
+      <Favicon url={favIcon} />
       <Header />
       <Nav />
       <About />
