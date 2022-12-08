@@ -33,6 +33,14 @@
   gap: 1rem;
   margin: 1rem;
 }
+
+.portfolio__item__cta a {
+  width: 100%;
+  text-align: center;
+}
+
+/* -------- Media Queries (x Medium) ---------*/
+
 @media screen and (max-width: 1200px) {
   .portfolio__item__cta {
     grid-template-columns: 1fr;
