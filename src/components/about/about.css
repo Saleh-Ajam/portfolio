@@ -74,6 +74,10 @@
   text-align: justify;
 }
 
+#about {
+  margin-top: 2rem;
+}
+
 /* -------- Media Queries (Medium) ---------*/
 @media screen and (max-width: 1024px) {
   .about__container {
