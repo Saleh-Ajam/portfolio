@@ -6,6 +6,7 @@ import AVTR3 from "../../assets/avatar3.jpg";
 import AVTR4 from "../../assets/avatar4.jpg";
 import AVTR5 from "../../assets/avatar5.jpg";
 import AVTR6 from "../../assets/avatar6.jpg";
+import AVTR7 from "../../assets/avatar7.jpg";
 
 import { Navigation, Pagination, Autoplay, EffectCards } from "swiper";
 
@@ -51,6 +52,12 @@ const data = [
     name: "Mahmoud Ali",
     review:
       "Muhammad is an ambitious and vigorous engineer. I wish you a bright future.",
+  },
+  {
+    avatar: AVTR7,
+    name: "Muhammad Tarabishy",
+    review:
+      "He does a great job, participates, is very cooperative and professional in work and dealing, he finds tirelessly and is always aware of everything new and general in the field of work or activity of the site. All the best, Mr. Saleh. We will deal more in the coming days.",
   },
 ];
 export default function Testimonials() {
