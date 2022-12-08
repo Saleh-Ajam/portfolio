@@ -94,5 +94,9 @@ header {
   header div.me {
     width: 80%;
     left: 10%;
+    height: 45%;
+  }
+  header {
+    height: 800px;
   }
 }
