@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4333710c.css",
-    "main.js": "/portfolio/static/js/main.f5979db3.js",
+    "main.js": "/portfolio/static/js/main.9f432ca9.js",
     "static/media/DoryGame.apk": "/portfolio/static/media/DoryGame.128f62247ffa177a0d68.apk",
     "static/media/GraduationProject.png": "/portfolio/static/media/GraduationProject.3e1dcd617cf0e23817c3.png",
     "static/media/WeatherWebPage.png": "/portfolio/static/media/WeatherWebPage.f889fa852637c3186d44.png",
@@ -13,6 +13,7 @@
     "static/media/Notebook.png": "/portfolio/static/media/Notebook.7668c70f4cd492498611.png",
     "static/media/logo.png": "/portfolio/static/media/logo.47a2308f6e8f3ec214bc.png",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.ae1e8c005b46a0ef37bb.pdf",
+    "static/media/avatar7.jpg": "/portfolio/static/media/avatar7.9ad4efa64fb7774b29e8.jpg",
     "static/media/avatar5.jpg": "/portfolio/static/media/avatar5.1384f88b05ed2fe512b1.jpg",
     "static/media/Saleh.jpg": "/portfolio/static/media/Saleh.f5a206bd8248cd29da71.jpg",
     "static/media/avatar3.jpg": "/portfolio/static/media/avatar3.f7a7588033dbe372ca5d.jpg",
@@ -22,10 +23,10 @@
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.4953398b2c706600464a.jpg",
     "index.html": "/portfolio/index.html",
     "main.4333710c.css.map": "/portfolio/static/css/main.4333710c.css.map",
-    "main.f5979db3.js.map": "/portfolio/static/js/main.f5979db3.js.map"
+    "main.9f432ca9.js.map": "/portfolio/static/js/main.9f432ca9.js.map"
   },
   "entrypoints": [
     "static/css/main.4333710c.css",
-    "static/js/main.f5979db3.js"
+    "static/js/main.9f432ca9.js"
   ]
 }
