@@ -7,6 +7,7 @@ import IMG4 from "../../assets/WeatherWebPage.png";
 import IMG5 from "../../assets/Notebook.png";
 import IMG6 from "../../assets/DoryGame.png";
 import IMG7 from "../../assets/LuckyShurb.png";
+import IMG8 from "../../assets/EasyMarketJS.png";
 import NOTEBOOKAPP from "../../assets/Notebook.apk";
 import DORYGAMEAPP from "../../assets/DoryGame.apk";
 
@@ -137,6 +138,20 @@ export default function Portfolio() {
             </a>
             <a
               href="https://saleh-ajam.github.io/Lucky-Shurb/"
+              className="btn btn-primary"
+            >
+              Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item__img">
+            <img src={IMG8} alt="Easy Market Web App." />
+          </div>
+          <h3>Easy Market Web App.</h3>
+          <div className="portfolio__item__cta">
+            <a
+              href="https://saleh-ajam.github.io/easymarket1/#/home"
               className="btn btn-primary"
             >
               Demo
