@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fd760c34.css",
-    "main.js": "/portfolio/static/js/main.d78f360b.js",
+    "main.js": "/portfolio/static/js/main.9150d48a.js",
     "static/media/DoryGame.apk": "/portfolio/static/media/DoryGame.128f62247ffa177a0d68.apk",
-    "static/media/GraduationProject.png": "/portfolio/static/media/GraduationProject.3e1dcd617cf0e23817c3.png",
-    "static/media/WeatherWebPage.png": "/portfolio/static/media/WeatherWebPage.f889fa852637c3186d44.png",
+    "static/media/GraduationProject.png": "/portfolio/static/media/GraduationProject.cbb0bc10d9d83e012e5f.png",
+    "static/media/WeatherWebPage.png": "/portfolio/static/media/WeatherWebPage.41c198df15c0fe0e543e.png",
     "static/media/Notebook.apk": "/portfolio/static/media/Notebook.86e755b23b19b174eabc.apk",
     "static/media/DoryGame.png": "/portfolio/static/media/DoryGame.a9edbf9bfa0f19959a7b.png",
     "static/media/LuckyShurb.png": "/portfolio/static/media/LuckyShurb.73f197748675363cc08d.png",
+    "static/media/NaturalTours.png": "/portfolio/static/media/NaturalTours.33cf3a4346c9bb3a0d1b.png",
     "static/media/FourthYearProject.png": "/portfolio/static/media/FourthYearProject.e58e6ce23eaa782eb0f9.png",
-    "static/media/NatouralTours.png": "/portfolio/static/media/NatouralTours.2f7fae4983b25a188a8f.png",
     "static/media/EasyMarketJS.png": "/portfolio/static/media/EasyMarketJS.713a2a9495d4b716d19b.png",
-    "static/media/Notebook.png": "/portfolio/static/media/Notebook.7668c70f4cd492498611.png",
+    "static/media/Notebook.png": "/portfolio/static/media/Notebook.c6b5bfcef7212bbcb364.png",
     "static/media/logo.png": "/portfolio/static/media/logo.47a2308f6e8f3ec214bc.png",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.6e0e76714b21eb9ab1a1.pdf",
     "static/media/avatar7.jpg": "/portfolio/static/media/avatar7.9ad4efa64fb7774b29e8.jpg",
@@ -24,10 +24,10 @@
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.4953398b2c706600464a.jpg",
     "index.html": "/portfolio/index.html",
     "main.fd760c34.css.map": "/portfolio/static/css/main.fd760c34.css.map",
-    "main.d78f360b.js.map": "/portfolio/static/js/main.d78f360b.js.map"
+    "main.9150d48a.js.map": "/portfolio/static/js/main.9150d48a.js.map"
   },
   "entrypoints": [
     "static/css/main.fd760c34.css",
-    "static/js/main.d78f360b.js"
+    "static/js/main.9150d48a.js"
   ]
 }
