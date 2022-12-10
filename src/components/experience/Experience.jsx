@@ -9,6 +9,7 @@ import {
   SiMongodb,
   SiRobotframework,
   SiPug,
+  SiTailwindcss,
 } from "react-icons/si";
 import { BsBootstrap, BsFillHddNetworkFill } from "react-icons/bs";
 import { IoLogoNodejs, IoMdImages } from "react-icons/io";
@@ -16,6 +17,7 @@ import { TbBrandReactNative, TbMathFunction } from "react-icons/tb";
 import { GiArtificialIntelligence, GiMetalGolemHead } from "react-icons/gi";
 import { FaPython, FaDatabase, FaAndroid } from "react-icons/fa";
 import { TiDeviceTablet } from "react-icons/ti";
+import SyncfusionIcon from "../../utilties/SyncfusionIcon";
 
 export default function Experience() {
   return (
@@ -79,6 +81,20 @@ export default function Experience() {
               <TiDeviceTablet className="experience__details__icon" />
               <div>
                 <h4>UX/UI</h4>
+                <small className="text-light">Biggener</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <SiTailwindcss className="experience__details__icon" />
+              <div>
+                <h4>TailwindCSS</h4>
+                <small className="text-light">Biggener</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <SyncfusionIcon className="experience__details__icon" />
+              <div>
+                <h4>Syncfusion</h4>
                 <small className="text-light">Biggener</small>
               </div>
             </article>
