@@ -8,6 +8,7 @@ import IMG5 from "../../assets/Notebook.png";
 import IMG6 from "../../assets/DoryGame.png";
 import IMG7 from "../../assets/LuckyShurb.png";
 import IMG8 from "../../assets/EasyMarketJS.png";
+import IMG9 from "../../assets/AdminDashboard.png";
 import NOTEBOOKAPP from "../../assets/Notebook.apk";
 import DORYGAMEAPP from "../../assets/DoryGame.apk";
 
@@ -152,6 +153,20 @@ export default function Portfolio() {
           <div className="portfolio__item__cta">
             <a
               href="https://saleh-ajam.github.io/easymarket1/#/home"
+              className="btn btn-primary"
+            >
+              Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item__img">
+            <img src={IMG9} alt="Easy Market Web App." />
+          </div>
+          <h3>Admin Dashboard</h3>
+          <div className="portfolio__item__cta">
+            <a
+              href="https://saleh-ajam.github.io/ecommerce"
               className="btn btn-primary"
             >
               Demo
