@@ -166,7 +166,7 @@ export default function Portfolio() {
           <h3>Admin Dashboard</h3>
           <div className="portfolio__item__cta">
             <a
-              href="https://saleh-ajam.github.io/ecommerce"
+              href="https://saleh-ajam.github.io/admin-dashboard/#/"
               className="btn btn-primary"
             >
               Demo
