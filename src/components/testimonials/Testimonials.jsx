@@ -21,7 +21,7 @@ import "swiper/css/scrollbar";
 const data = [
   {
     avatar: AVTR1,
-    name: "Muhammad Dayie",
+    name: "Mohammad Daieh",
     review: "May God give you wellness eng. Saleh, neat job.",
   },
   {

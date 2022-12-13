@@ -24,7 +24,7 @@ export default function Portfolio() {
             <img src={IMG1} alt="Fourth year project" />
           </div>
           <h3>Easy Market Android Application</h3>
-          <h5>Java, Material UI</h5>
+          <h5>Java, Material UI, Firebase</h5>
           <div className="portfolio__item__cta">
             {/* <a href="#" className="btn" target="_blank">
             Source Code
@@ -92,7 +92,7 @@ export default function Portfolio() {
             <img src={IMG4} alt="Natiural Tours" />
           </div>
           <h3>Weather Page</h3>
-          <h5>HTML, CSS ,JS</h5>
+          <h5>HTML, CSS, JS</h5>
           <div className="portfolio__item__cta">
             <a
               href="https://github.com/Saleh-Ajam/weather-web-page"
