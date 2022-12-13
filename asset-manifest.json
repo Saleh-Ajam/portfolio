@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fd760c34.css",
-    "main.js": "/portfolio/static/js/main.673e5943.js",
+    "main.js": "/portfolio/static/js/main.3e72d877.js",
     "static/media/DoryGame.apk": "/portfolio/static/media/DoryGame.128f62247ffa177a0d68.apk",
     "static/media/GraduationProject.png": "/portfolio/static/media/GraduationProject.cbb0bc10d9d83e012e5f.png",
     "static/media/WeatherWebPage.png": "/portfolio/static/media/WeatherWebPage.41c198df15c0fe0e543e.png",
@@ -25,10 +25,10 @@
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.4953398b2c706600464a.jpg",
     "index.html": "/portfolio/index.html",
     "main.fd760c34.css.map": "/portfolio/static/css/main.fd760c34.css.map",
-    "main.673e5943.js.map": "/portfolio/static/js/main.673e5943.js.map"
+    "main.3e72d877.js.map": "/portfolio/static/js/main.3e72d877.js.map"
   },
   "entrypoints": [
     "static/css/main.fd760c34.css",
-    "static/js/main.673e5943.js"
+    "static/js/main.3e72d877.js"
   ]
 }
