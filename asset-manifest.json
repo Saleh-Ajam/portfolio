@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6205a4e9.css",
-    "main.js": "/portfolio/static/js/main.1d9b8d03.js",
+    "main.css": "/portfolio/static/css/main.c25ebe5b.css",
+    "main.js": "/portfolio/static/js/main.f5679d55.js",
     "static/media/DoryGame.apk": "/portfolio/static/media/DoryGame.128f62247ffa177a0d68.apk",
     "static/media/GraduationProject.png": "/portfolio/static/media/GraduationProject.cbb0bc10d9d83e012e5f.png",
     "static/media/WeatherWebPage.png": "/portfolio/static/media/WeatherWebPage.41c198df15c0fe0e543e.png",
@@ -24,11 +24,11 @@
     "static/media/avatar6.jpg": "/portfolio/static/media/avatar6.2dc040fbdcf2d69312de.jpg",
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.4953398b2c706600464a.jpg",
     "index.html": "/portfolio/index.html",
-    "main.6205a4e9.css.map": "/portfolio/static/css/main.6205a4e9.css.map",
-    "main.1d9b8d03.js.map": "/portfolio/static/js/main.1d9b8d03.js.map"
+    "main.c25ebe5b.css.map": "/portfolio/static/css/main.c25ebe5b.css.map",
+    "main.f5679d55.js.map": "/portfolio/static/js/main.f5679d55.js.map"
   },
   "entrypoints": [
-    "static/css/main.6205a4e9.css",
-    "static/js/main.1d9b8d03.js"
+    "static/css/main.c25ebe5b.css",
+    "static/js/main.f5679d55.js"
   ]
 }
