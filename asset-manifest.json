@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cd71cda1.css",
+    "main.css": "/portfolio/static/css/main.a756138e.css",
     "main.js": "/portfolio/static/js/main.5f875916.js",
     "static/media/DoryGame.apk": "/portfolio/static/media/DoryGame.128f62247ffa177a0d68.apk",
     "static/media/GraduationProject.png": "/portfolio/static/media/GraduationProject.cbb0bc10d9d83e012e5f.png",
@@ -24,11 +24,11 @@
     "static/media/avatar6.jpg": "/portfolio/static/media/avatar6.2dc040fbdcf2d69312de.jpg",
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.4953398b2c706600464a.jpg",
     "index.html": "/portfolio/index.html",
-    "main.cd71cda1.css.map": "/portfolio/static/css/main.cd71cda1.css.map",
+    "main.a756138e.css.map": "/portfolio/static/css/main.a756138e.css.map",
     "main.5f875916.js.map": "/portfolio/static/js/main.5f875916.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd71cda1.css",
+    "static/css/main.a756138e.css",
     "static/js/main.5f875916.js"
   ]
 }
