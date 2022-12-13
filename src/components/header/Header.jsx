@@ -3,10 +3,18 @@ import "./header.css";
 import CTA from "./CTA";
 import HeaderSocials from "./HeaderSocials";
 import ME from "../../assets/Saleh.jpg";
+import ParticlesBg from "particles-bg";
 
 export default function Header() {
   return (
     <section id="header">
+      <ParticlesBg
+        num={window.innerWidth > 900 ? 50 : 20}
+        type="cobweb"
+        bg={true}
+        color="#ffffff"
+      />
+
       <header>
         <div className="container header__container">
           <h5>Hello I'm</h5>
