@@ -29,7 +29,7 @@
 .portfolio__item h5 {
   margin-bottom: 2rem;
   margin-left: 0.3rem;
-  color: slategray;
+  color: var(--color-light);
 }
 
 .portfolio__item__cta {
