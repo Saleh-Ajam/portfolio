@@ -24,6 +24,7 @@ export default function Portfolio() {
             <img src={IMG1} alt="Fourth year project" />
           </div>
           <h3>Easy Market Android Application</h3>
+          <h5>Java, Material UI</h5>
           <div className="portfolio__item__cta">
             {/* <a href="#" className="btn" target="_blank">
             Source Code
@@ -42,6 +43,7 @@ export default function Portfolio() {
             <img src={IMG2} alt="Fourth year project" />
           </div>
           <h3>Rubik's Cube Robot</h3>
+          <h5>Arduino, C, Java</h5>
           <div className="portfolio__item__cta">
             {/* <a href="#" className="btn" target="_blank">
             Source Code
@@ -60,6 +62,7 @@ export default function Portfolio() {
             <img src={IMG3} alt="Fourth year project" />
           </div>
           <h3>Natural Tours</h3>
+          <h5>NodeJs, Pug</h5>
           <div className="portfolio__item__cta">
             <a
               href="https://documenter.getpostman.com/view/7259292/U16nKj1C"
@@ -89,6 +92,7 @@ export default function Portfolio() {
             <img src={IMG4} alt="Natiural Tours" />
           </div>
           <h3>Weather Page</h3>
+          <h5>HTML, CSS ,JS</h5>
           <div className="portfolio__item__cta">
             <a
               href="https://github.com/Saleh-Ajam/weather-web-page"
@@ -111,6 +115,7 @@ export default function Portfolio() {
             <img src={IMG5} alt="Notebook App." />
           </div>
           <h3>Notebook Android App.</h3>
+          <h5>Java</h5>
           <div className="portfolio__item__cta">
             <a href={NOTEBOOKAPP} className="btn btn-primary" download>
               download App.
@@ -122,6 +127,7 @@ export default function Portfolio() {
             <img src={IMG6} alt="Dory Game App." />
           </div>
           <h3>Dory Android Game</h3>
+          <h5>Java</h5>
           <div className="portfolio__item__cta">
             <a href={DORYGAMEAPP} className="btn btn-primary" download>
               download App.
@@ -133,6 +139,7 @@ export default function Portfolio() {
             <img src={IMG7} alt="Lucky Shurb" />
           </div>
           <h3>Lucky Shurb</h3>
+          <h5>HTML, CSS, JS</h5>
           <div className="portfolio__item__cta">
             <a href="https://github.com/Saleh-Ajam/Lucky-Shurb" className="btn">
               Source Code
@@ -150,6 +157,7 @@ export default function Portfolio() {
             <img src={IMG8} alt="Easy Market Web App." />
           </div>
           <h3>Easy Market Web App.</h3>
+          <h5>MERN Stack</h5>
           <div className="portfolio__item__cta">
             <a
               href="https://saleh-ajam.github.io/easymarket1/#/home"
@@ -164,6 +172,7 @@ export default function Portfolio() {
             <img src={IMG9} alt="Easy Market Web App." />
           </div>
           <h3>Admin Dashboard</h3>
+          <h5>ReactJS, Tailwind, Syncfusion</h5>
           <div className="portfolio__item__cta">
             <a
               href="https://saleh-ajam.github.io/admin-dashboard/#/"

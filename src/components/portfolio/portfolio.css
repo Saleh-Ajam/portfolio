@@ -24,7 +24,12 @@
 }
 
 .portfolio__item h3 {
-  margin: 1.2rem 0 2rem;
+  margin: 1.2rem 0 0.5rem;
+}
+.portfolio__item h5 {
+  margin-bottom: 2rem;
+  margin-left: 0.3rem;
+  color: slategray;
 }
 
 .portfolio__item__cta {
