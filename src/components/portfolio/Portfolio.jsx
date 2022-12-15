@@ -9,6 +9,7 @@ import IMG6 from "../../assets/DoryGame.png";
 import IMG7 from "../../assets/LuckyShurb.png";
 import IMG8 from "../../assets/EasyMarketJS.png";
 import IMG9 from "../../assets/AdminDashboard.png";
+import IMG10 from "../../assets/Musix.png";
 import NOTEBOOKAPP from "../../assets/Notebook.apk";
 import DORYGAMEAPP from "../../assets/DoryGame.apk";
 
@@ -169,13 +170,28 @@ export default function Portfolio() {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item__img">
-            <img src={IMG9} alt="Easy Market Web App." />
+            <img src={IMG9} alt="Admin Dashboard" />
           </div>
           <h3>Admin Dashboard</h3>
           <h5>ReactJS, Tailwind, Syncfusion</h5>
           <div className="portfolio__item__cta">
             <a
               href="https://saleh-ajam.github.io/admin-dashboard/#/"
+              className="btn btn-primary"
+            >
+              Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item__img">
+            <img src={IMG10} alt="Musix" />
+          </div>
+          <h3>Musix</h3>
+          <h5>ReactJS, Tailwind, Vite</h5>
+          <div className="portfolio__item__cta">
+            <a
+              href="https://saleh-ajam.github.io/musix"
               className="btn btn-primary"
             >
               Demo
