@@ -41,7 +41,7 @@ export default function Portfolio() {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item__img">
-            <img src={IMG2} alt="Fourth year project" />
+            <img src={IMG2} alt="Graduation project" />
           </div>
           <h3>Rubik's Cube Robot</h3>
           <h5>Arduino, C, Java</h5>
@@ -60,7 +60,7 @@ export default function Portfolio() {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item__img">
-            <img src={IMG3} alt="Fourth year project" />
+            <img src={IMG3} alt="Natural Tours" />
           </div>
           <h3>Natural Tours</h3>
           <h5>NodeJs, Express, Pug</h5>
@@ -90,7 +90,7 @@ export default function Portfolio() {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item__img">
-            <img src={IMG4} alt="Natiural Tours" />
+            <img src={IMG4} alt="Weather Page" />
           </div>
           <h3>Weather Page</h3>
           <h5>HTML, CSS, JS</h5>
