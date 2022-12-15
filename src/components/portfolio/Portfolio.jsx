@@ -63,7 +63,7 @@ export default function Portfolio() {
             <img src={IMG3} alt="Fourth year project" />
           </div>
           <h3>Natural Tours</h3>
-          <h5>NodeJs, Pug</h5>
+          <h5>NodeJs, Express, Pug</h5>
           <div className="portfolio__item__cta">
             <a
               href="https://documenter.getpostman.com/view/7259292/U16nKj1C"
