@@ -188,7 +188,7 @@ export default function Portfolio() {
             <img src={IMG10} alt="Musix" />
           </div>
           <h3>Musix</h3>
-          <h5>ReactJS, Tailwind, Vite</h5>
+          <h5>ReactJS, Redux, Tailwind, Vite</h5>
           <div className="portfolio__item__cta">
             <a
               href="https://saleh-ajam.github.io/musix"
