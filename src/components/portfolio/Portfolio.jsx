@@ -6,7 +6,6 @@ import IMG3 from "../../assets/NaturalTours.png";
 import IMG4 from "../../assets/WeatherWebPage.png";
 import IMG5 from "../../assets/Notebook.png";
 import IMG6 from "../../assets/DoryGame.png";
-import IMG7 from "../../assets/LuckyShurb.png";
 import IMG8 from "../../assets/EasyMarketJS.png";
 import IMG9 from "../../assets/AdminDashboard.png";
 import IMG10 from "../../assets/Musix.png";
@@ -135,24 +134,7 @@ export default function Portfolio() {
             </a>
           </div>
         </article>
-        <article className="portfolio__item">
-          <div className="portfolio__item__img">
-            <img src={IMG7} alt="Lucky Shurb" />
-          </div>
-          <h3>Lucky Shurb</h3>
-          <h5>HTML, CSS, JS</h5>
-          <div className="portfolio__item__cta">
-            <a href="https://github.com/Saleh-Ajam/Lucky-Shurb" className="btn">
-              Source Code
-            </a>
-            <a
-              href="https://saleh-ajam.github.io/Lucky-Shurb/"
-              className="btn btn-primary"
-            >
-              Demo
-            </a>
-          </div>
-        </article>
+
         <article className="portfolio__item">
           <div className="portfolio__item__img">
             <img src={IMG8} alt="Easy Market Web App." />
