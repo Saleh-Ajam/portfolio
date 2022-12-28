@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c25ebe5b.css",
-    "main.js": "/portfolio/static/js/main.271a4f33.js",
+    "main.js": "/portfolio/static/js/main.6ae7c2ff.js",
     "static/media/DoryGame.apk": "/portfolio/static/media/DoryGame.128f62247ffa177a0d68.apk",
     "static/media/GraduationProject.png": "/portfolio/static/media/GraduationProject.cbb0bc10d9d83e012e5f.png",
     "static/media/WeatherWebPage.png": "/portfolio/static/media/WeatherWebPage.41c198df15c0fe0e543e.png",
     "static/media/Notebook.apk": "/portfolio/static/media/Notebook.86e755b23b19b174eabc.apk",
     "static/media/DoryGame.png": "/portfolio/static/media/DoryGame.a9edbf9bfa0f19959a7b.png",
     "static/media/Musix.png": "/portfolio/static/media/Musix.a9e70329833d838ea77f.png",
-    "static/media/LuckyShurb.png": "/portfolio/static/media/LuckyShurb.73f197748675363cc08d.png",
     "static/media/NaturalTours.png": "/portfolio/static/media/NaturalTours.33cf3a4346c9bb3a0d1b.png",
     "static/media/FourthYearProject.png": "/portfolio/static/media/FourthYearProject.e58e6ce23eaa782eb0f9.png",
     "static/media/EasyMarketJS.png": "/portfolio/static/media/EasyMarketJS.713a2a9495d4b716d19b.png",
@@ -26,10 +25,10 @@
     "static/media/avatar1.jpg": "/portfolio/static/media/avatar1.4953398b2c706600464a.jpg",
     "index.html": "/portfolio/index.html",
     "main.c25ebe5b.css.map": "/portfolio/static/css/main.c25ebe5b.css.map",
-    "main.271a4f33.js.map": "/portfolio/static/js/main.271a4f33.js.map"
+    "main.6ae7c2ff.js.map": "/portfolio/static/js/main.6ae7c2ff.js.map"
   },
   "entrypoints": [
     "static/css/main.c25ebe5b.css",
-    "static/js/main.271a4f33.js"
+    "static/js/main.6ae7c2ff.js"
   ]
 }
